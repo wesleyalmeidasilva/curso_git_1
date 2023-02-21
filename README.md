@@ -16,4 +16,4 @@ __Melhoria 1__, _melhoria 2_
 * CSS
 * JavaScript
 * PHP
-*MySQL
+* MySQL
